@@ -4,3 +4,6 @@
 #---------------------------------------------------------
 requests
 plexapi
+matplotlib
+numpy
+basemap
